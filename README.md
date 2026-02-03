@@ -3,7 +3,13 @@
 豆听 是一个浏览器扩展，当你浏览豆瓣的图书、电影或创作者页面时，
 自动为你展示与当前内容相关的播客单集，帮助你从“阅读 / 观影”自然延伸到“收听”。
 
----
+
+
+## 🔗 下载地址
+
+chrome：https://chromewebstore.google.com/detail/monlijopbphefdecgmicgbamhhhcngim?utm_source=item-share-cb
+
+
 
 ## ✨ 功能介绍
 
@@ -13,7 +19,7 @@
 - 🔍 支持关键词搜索与分页浏览
 - 🎧 不采集、不存储任何用户数据
 
----
+
 
 ## 🔒 隐私说明
 
@@ -24,7 +30,7 @@
 详细内容请参见：
 [隐私政策](./PRIVACY.md)
 
----
+
 
 ## 📬 联系方式
 
