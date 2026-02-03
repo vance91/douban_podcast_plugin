@@ -7,7 +7,7 @@
 
 ## 🔗 下载地址
 
-chrome：https://chromewebstore.google.com/detail/monlijopbphefdecgmicgbamhhhcngim?utm_source=item-share-cb
+chrome：https://chromewebstore.google.com/detail/monlijopbphefdecgmicgbamhhhcngim
 
 
 
