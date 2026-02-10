@@ -6,7 +6,7 @@
 
 
 ## 🔗 下载地址
-
+edge：https://microsoftedge.microsoft.com/addons/detail/mppamoanbcdflmkkkaaimkgkjmfbebap
 chrome：https://chromewebstore.google.com/detail/monlijopbphefdecgmicgbamhhhcngim
 
 
